@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Afizul Islam
 #### Web Developer
-![Web Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/309556635_2257962731030443_2778159162785648402_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF2RheGSWmr60Jxim2C901uy7r7Fmw5_ODLuvsWbDn84IEwSRHbA4so56f6i_7EhzUGBn6nNybUNyVRBsK91hfa&_nc_ohc=_qjDQuIKjicAX9IHPaA&_nc_ht=scontent.fdac19-1.fna&oh=00_AfA_cZeASB8z0139GWhqJ9dna5hCuCDh7OXPG190wadtNQ&oe=636A74B0)
-
 
 Skills: REACT / JS / HTML / CSS/PHP/JAVA/C/PYTHON
 
