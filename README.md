@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Afizul Islam
 #### Web Developer
-![afizul](https://user-images.githubusercontent.com/117252203/199983456-ae33a0da-f243-4044-995b-dd3409c1ee8b.jpg  height='20')
+![afizul  height='20'](https://user-images.githubusercontent.com/117252203/199983456-ae33a0da-f243-4044-995b-dd3409c1ee8b.jpg )
 
 Skills: REACT / JS / HTML / CSS/PHP/JAVA/C/PYTHON
 
