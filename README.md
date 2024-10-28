@@ -4,7 +4,7 @@
 Skills: REACT / JS / HTML / CSS/PHP/JAVA/C/PYTHON
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript/Python 
+- 🌱 I’m currently learning C# 
 - 👯 I’m looking to collaborate on github 
 
 
