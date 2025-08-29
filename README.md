@@ -1,27 +1,59 @@
-### Hi there 👋, I'm Afizul Islam
-#### Web Developer
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7F7&width=435&lines=Hi+there+👋,+I'm+Afizul+Islam;Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
 
-Skills: REACT / JS / HTML / CSS/PHP/JAVA/C/PYTHON
+---
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C# 
-- 👯 I’m looking to collaborate on github 
+## 👨‍💻 About Me
+- 🔭 Currently working on **Web Development Projects**  
+- 🌱 Learning **C# and advanced backend concepts**  
+- 👯 Open to collaborate on **GitHub Projects**  
+- 💡 Love to build **scalable apps & APIs**  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Afizul2459)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afizul-islam-b3800620b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004502145147)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/itsafizul//)  
+## 🛠 Skills  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+**Languages:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Afizul2459)](https://github.com/ryo-ma/github-profile-trophy)
+**Frameworks & Tools:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afizul2459)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Afizul2459&show_icons=true&count_private=true)  
+## 📊 GitHub Stats  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afizul2459)  
+![Afizul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afizul2459&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afizul2459&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afizul2459&theme=radical)  
 
-![GitHub metrics](https://metrics.lecoq.io/Afizul2459)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Afizul2459&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Afizul2459)  
+---
 
-![Profile views](https://gpvc.arturio.dev/Afizul2459)  
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Afizul2459&theme=react-dark)
+
+---
+
+## 🌐 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afizul2459)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afizul-islam-b3800620b/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004502145147)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsafizul/)  
+
+---
+
+⭐ *“Code is like art — the cleaner it is, the more beautiful it becomes.”*  
