@@ -4,6 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
+- 🎓 BSc in Computer Science & Engineering (CSE)  
 - 🔭 Currently working on **Web Development Projects**  
 - 🌱 Learning **C# and advanced backend concepts**  
 - 👯 Open to collaborate on **GitHub Projects**  
@@ -56,4 +57,4 @@
 
 ---
 
-⭐ *“Code is like art — the cleaner it is, the more beautiful it becomes.”*  
+
