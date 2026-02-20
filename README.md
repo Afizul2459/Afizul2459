@@ -1,85 +1,88 @@
 <h1 align="center">Md. Afizul Islam</h1>
-<h3 align="center">Full Stack Laravel Developer | API & System Architecture Enthusiast</h3>
+<h3 align="center">Full Stack Laravel Developer | Backend-Focused Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/afizul2459">
-    <img src="https://komarev.com/ghpvc/?username=afizul2459&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+Dhaka, Bangladesh | Open to Remote & On-Site Opportunities
 </p>
 
 ---
 
-## Professional Summary
+## Executive Summary
 
-Results-driven Full Stack Developer with strong expertise in Laravel, REST API development, and modern frontend frameworks. Experienced in building scalable web applications, structured backend systems, and clean user interfaces. Passionate about clean architecture, performance optimization, and maintainable code.
+Full Stack Developer with strong specialization in PHP and Laravel framework, focused on building scalable backend systems, RESTful APIs, and structured enterprise-level applications. Experienced in developing inventory management systems, booking platforms, authentication-based systems, and database-driven applications using clean architecture principles.
+
+Proficient in MVC design pattern, Object-Oriented Programming (OOP), relational database design with MySQL, and secure authentication & authorization systems. Capable of delivering complete end-to-end solutions — from database schema planning and API development to frontend integration and deployment.
+
+Committed to writing maintainable, optimized, and production-ready code aligned with industry best practices.
 
 ---
 
-## Core Competencies
+## Technical Expertise
 
-**Backend Development**
-- PHP (OOP & MVC Architecture)
+### Backend Development
+- PHP (OOP, SOLID Principles)
 - Laravel Framework
-- RESTful API Design
-- MySQL Database Design
+- RESTful API Development
 - Authentication & Authorization Systems
-- Payment & Booking System Logic
+- Database Design & Optimization (MySQL)
+- Business Logic Implementation
+- Payment & Booking System Architecture
 
-**Frontend Development**
+### Frontend Development
 - React.js
 - Vue.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Tailwind CSS / Bootstrap
 
-**Tools & Workflow**
-- Git & GitHub Version Control
-- Postman API Testing
-- NPM & Node.js
-- Linux Environment Basics
+### Development Tools & Workflow
+- Git & GitHub (Version Control)
+- Postman (API Testing)
+- Node.js & NPM
 - Deployment (GitHub Pages / Netlify)
+- Basic Linux Environment
 
 ---
 
-## Selected Projects
+## Professional Project Experience
 
-**Advanced Retail POS System**  
-Enterprise-style inventory, sales, multi-store and reporting system built with Laravel.
+### Retail POS & Inventory Management System
+Designed and developed a multi-module retail management system including sales tracking, inventory control, supplier management, reporting, and role-based access control using Laravel.
 
-**Flight Booking & Invoice System**  
-API-based flight search and booking logic with pricing, markup calculation, and invoice generation.
+### Flight Booking & Invoice Management System
+Implemented dynamic API-based flight search, pricing logic, markup calculation, booking management, and invoice generation system using structured backend architecture.
 
-**Student Management System (OOP Architecture)**  
-Object-oriented PHP project featuring authentication, AJAX integration, and structured architecture.
+### Student Management System (OOP-Based)
+Developed an authentication-based PHP application using object-oriented programming principles and AJAX integration for dynamic data handling.
 
 ---
 
-## GitHub Analytics
+## Core Competencies
+
+- Scalable Application Architecture
+- Clean Code & Modular Development
+- Secure Authentication Systems
+- API Integration & Data Handling
+- Database Relationship Modeling
+- Performance Optimization
+- Structured MVC Implementation
+
+---
+
+## Professional Objective
+
+To contribute as a backend-focused software engineer in a growth-oriented organization where I can apply my Laravel expertise, strengthen system design capabilities, and build scalable enterprise-grade applications.
+
+---
+
+## Contact Information
+
+GitHub: https://github.com/afizul2459  
+Email:  afizul2459@gmail.com
+Location: Dhaka, Bangladesh  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afizul2459&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afizul2459&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
-## Professional Goals
-
-- Strengthen expertise in scalable backend architecture  
-- Build production-grade SaaS platforms  
-- Improve system design and optimization skills  
-- Contribute to high-quality open source projects  
-
----
-
-## Contact
-
-- GitHub: https://github.com/afizul2459
-- Email: your-email@example.com
-- Location: Dhaka, Bangladesh
-
----
-
-<p align="center">
-  Focused on writing clean, maintainable, and scalable code.
+Focused on delivering reliable, scalable, and maintainable software solutions.
 </p>
